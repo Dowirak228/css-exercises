@@ -5,11 +5,10 @@
 }
 
 .inverted {
-   color: white;
-   background-color: #000;
+  background-color: black;
+  color: white;
 }
 
 .fancy {
-   color: #000;
-   background-color: yellow;
+  background-color: yellow;
 }
